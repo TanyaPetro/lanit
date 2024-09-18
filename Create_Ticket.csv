@@ -1,0 +1,6 @@
+title,submitter_email,description,queue
+"""First""","""user1@mail.com""","""Описание первого тикета""",1
+"""Second""","""user2@mail.com""","""Описание второго тикета""",1
+"""Third""","""user3@mail.com""","""Описание третьего тикета""",1
+"""Fourth""","""user4@mail.com""","""Описание четвертого тикета""",1
+"""Fifth""","""user5@mail.com""","""Описание пятого тикета""",1
